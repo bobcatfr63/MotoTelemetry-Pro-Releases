@@ -2,9 +2,14 @@
 
 Dépôt public officiel des versions signées de MotoTelemetry Pro.
 
-## Version actuelle : 0.7.2
+## Version actuelle : 0.7.3
 
 [Télécharger la dernière version](https://github.com/bobcatfr63/MotoTelemetry-Pro-Releases/releases/latest)
+
+### Nouveautés 0.7.3
+
+- Panneau Réglages réorganisé en six sections claires.
+- Calibration, données, diagnostic et assistance mieux regroupés.
 
 ### Nouveautés 0.7.2
 
