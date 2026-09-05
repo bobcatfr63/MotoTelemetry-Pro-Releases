@@ -2,9 +2,15 @@
 
 Dépôt public officiel des versions signées de MotoTelemetry Pro.
 
-## Version actuelle : 0.7.1
+## Version actuelle : 0.7.2
 
 [Télécharger la dernière version](https://github.com/bobcatfr63/MotoTelemetry-Pro-Releases/releases/latest)
+
+### Nouveautés 0.7.2
+
+- Distance et progression avant la prochaine manœuvre.
+- Nom de la prochaine voie et flèches spécifiques.
+- Vibrations de guidage facultatives.
 
 ### Nouveautés 0.7.1
 
