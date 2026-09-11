@@ -2,7 +2,7 @@
 
 Dépôt public officiel des versions signées de MotoTelemetry Pro.
 
-## Version actuelle : 0.7.3
+## [Consulter la version actuelle](https://github.com/bobcatfr63/MotoTelemetry-Pro-Releases/releases/latest)
 
 [Télécharger la dernière version](https://github.com/bobcatfr63/MotoTelemetry-Pro-Releases/releases/latest)
 
@@ -24,13 +24,3 @@ Dépôt public officiel des versions signées de MotoTelemetry Pro.
 - Bascule manuelle entre vue flèche et carte complète.
 
 ### Fonctions principales
-
-- Télémétrie GPS et capteurs, dashboard portrait/paysage et lean animé.
-- Enregistrement en arrière-plan et démarrage automatique configurable.
-- Guidage intégré avec recherche d’adresse, favoris, recalcul et instructions vocales.
-- Profils Rapide, Sans autoroute, Sinueux, Super sinueux et Touristique.
-- Création de boucles avec contrôle des routes répétées.
-- Cartes hors ligne, historique, graphiques, exports CSV/GPX et résumé partageable.
-- Sauvegarde/restauration et diagnostic exportable.
-
-L’APK `release` est destiné à l’installation. Le fichier AAB sera utilisé pour Google Play après validation du compte développeur.
